@@ -1,3 +1,10 @@
 A very good artical introducing Data Modeling Basics
 
 http://www.agiledata.org/essays/dataModeling101.html
+
+
+Level	Rule
+First normal form (1NF)	An entity type is in 1NF when it contains no repeating groups of data.
+Second normal form (2NF)	An entity type is in 2NF when it is in 1NF and when all of its non-key attributes are fully dependent on its primary key. 
+Third normal form (3NF)	An entity type is in 3NF when it is in 2NF and when all of its attributes are directly dependent on the primary key.
+- See more at: http://www.agiledata.org/essays/dataModeling101.html#Figure5IdentifyRelationships
