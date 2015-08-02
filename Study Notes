@@ -32,3 +32,6 @@ You can always learn new skills from someone else. This is one of the many benef
 It isn't enough to specialize in one aspect of technology. Become a generalizing specialist.
 Embrace "hard" tasks. Many traditionalists think that data migration is hard, and it is, but if you choose to get good at it you'll soon discover that it's not so bad after all. Data migration is an important part of implement most structural database refactorings, and database refactoring is a critical activity which supports evolutionary database development, so you'd better get good at it.
 - See more at: http://www.agiledata.org/essays/agileDataModeling.html#sthash.YMJXKa7B.dpuf
+
+
+An OLAP cube is a technology that stores data in an optimized way to provide a quick response to various types of complex queries by using dimensions and measures.
