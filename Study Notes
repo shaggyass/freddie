@@ -17,3 +17,18 @@ First normal form (1NF)	An entity type is in 1NF when it contains no repeating g
 Second normal form (2NF)	An entity type is in 2NF when it is in 1NF and when all of its non-key attributes are fully dependent on its primary key. 
 Third normal form (3NF)	An entity type is in 3NF when it is in 2NF and when all of its attributes are directly dependent on the primary key.
 - See more at: http://www.agiledata.org/essays/dataModeling101.html#Figure5IdentifyRelationships
+
+
+http://www.agiledata.org/essays/agileDataModeling.html
+
+Agile data modelers travel light and create agile models which are just barely good enough.
+Agile data models are just barely good enough. Agile developers solve today's problem today and trust that they can solve tomorrow's problem tomorrow.
+Agile data modeling is both evolutionary and collaborative.
+You can be agile yet still support the needs of the enterprise.  You can think about the future, and act on it, in a very agile manner if you choose to. 
+Agile data models can and should follow your corporate standards.  In fact, following modeling standards is an AM practice. Your standards should be straightforward, simple, and sufficiently described so that the team can learn and then follow them. Critical data modeling standards focus on naming conventions and conventions for writing stored procedures.
+Trying to define all the requirements up front is a risky proposition.  Requirements change over time, so embrace this concept and adopt techniques which allow you to react effectively. 
+Shared whiteboard space which is owned by the team can significant enhance communication and productivity. The DDJ 2008 Modeling and Documentation survey found that sketching was the most common primary approach to modeling (see Figure 9).
+You can always learn new skills from someone else. This is one of the many benefits of collaborative development.
+It isn't enough to specialize in one aspect of technology. Become a generalizing specialist.
+Embrace "hard" tasks. Many traditionalists think that data migration is hard, and it is, but if you choose to get good at it you'll soon discover that it's not so bad after all. Data migration is an important part of implement most structural database refactorings, and database refactoring is a critical activity which supports evolutionary database development, so you'd better get good at it.
+- See more at: http://www.agiledata.org/essays/agileDataModeling.html#sthash.YMJXKa7B.dpuf
